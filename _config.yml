@@ -1,0 +1,8 @@
+title: Vjot
+description: The greatest jotting web app of all time
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
